@@ -21,3 +21,34 @@ altColor 255,102,0
 alwaysZero on
 autoScale on
 maxHeightPixels 128:128:16
+
+#############
+
+track DFF_Pol_II_ChIP
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019ls@raw.githubusercontent.com/meierjl/CUTANDRUN/master/FJ616285.1/POL/GSM5620717_Exp3_HFF_TB40e_Pol-II_KF297339.1.bw
+longLabel DFF Pol II 
+shortLabel DFF Pol II 
+negateValues off
+color 113,35,124
+altColor 113,35,124
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+
+#############
+
+track DFF_H3K4me3_ChIP
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019ls@raw.githubusercontent.com/meierjl/CUTANDRUN/master/FJ616285.1/POL/GSM5620716_Exp3_HFF_TB40e_H3K4me3_KF297339.1.bw
+longLabel DFF H3K4me3 
+shortLabel DFF H3K4me3 
+negateValues off
+color 113,35,124
+altColor 113,35,124
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+
