@@ -157,7 +157,7 @@ track WT-3Prime-1_FW
 parent WT-3Prime-1
 type bigWig 0 1000
 visibility full
-bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/CUTANDRUN/master/FJ616285.1/POL/WT-Rep1-3prime-FW.bw
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/CUTANDRUN/master/FJ616285.1/RNASeq-3Prime/WT-Rep1-3prime-FW.bw
 longLabel RNA-Seq WT 3 Prime 1
 shortLabel RNA-Seq WT 3 Prime 1
 negateValues off
@@ -171,7 +171,7 @@ track WT-3Prime-1_RV
 parent WT-3Prime-1
 type bigWig 0 1000
 visibility full
-bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/CUTANDRUN/master/FJ616285.1/POL/WT-Rep1-3prime-RV.bw
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/CUTANDRUN/master/FJ616285.1/RNASeq-3Prime/WT-Rep1-3prime-RV.bw
 longLabel RNA-Seq WT 3 Prime 1
 shortLabel RNA-Seq WT 3 Prime 1
 negateValues on
@@ -195,7 +195,7 @@ track WT-3Prime-2_FW
 parent WT-3Prime-2
 type bigWig 0 1000
 visibility full
-bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/CUTANDRUN/master/FJ616285.1/POL/WT-Rep2-3prime-FW.bw
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/CUTANDRUN/master/FJ616285.1/RNASeq-3Prime/WT-Rep2-3prime-FW.bw
 longLabel RNA-Seq WT 3 Prime 2
 shortLabel RNA-Seq WT 3 Prime 2
 negateValues off
@@ -209,7 +209,7 @@ track WT-3Prime-2_RV
 parent WT-3Prime-2
 type bigWig 0 1000
 visibility full
-bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/CUTANDRUN/master/FJ616285.1/POL/WT-Rep2-3prime-RV.bw
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/CUTANDRUN/master/FJ616285.1/RNASeq-3Prime/WT-Rep2-3prime-RV.bw
 longLabel RNA-Seq WT 3 Prime 2
 shortLabel RNA-Seq WT 3 Prime 2
 negateValues on
@@ -233,7 +233,7 @@ track NB-3Prime-1_FW
 parent NB-3Prime-1
 type bigWig 0 1000
 visibility full
-bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/CUTANDRUN/master/FJ616285.1/POL/NB-Rep1-3prime-FW.bw
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/CUTANDRUN/master/FJ616285.1/RNASeq-3Prime/NB-Rep1-3prime-FW.bw
 longLabel RNA-Seq NB 3 Prime 1
 shortLabel RNA-Seq NB 3 Prime 1
 negateValues off
@@ -247,7 +247,7 @@ track NB-3Prime-1_RV
 parent NB-3Prime-1
 type bigWig 0 1000
 visibility full
-bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/CUTANDRUN/master/FJ616285.1/POL/NB-Rep1-3prime-RV.bw
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/CUTANDRUN/master/FJ616285.1/RNASeq-3Prime/NB-Rep1-3prime-RV.bw
 longLabel RNA-Seq NB 3 Prime 1
 shortLabel RNA-Seq NB 3 Prime 1
 negateValues on
@@ -271,7 +271,7 @@ track NB-3Prime-2_FW
 parent NB-3Prime-2
 type bigWig 0 1000
 visibility full
-bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/CUTANDRUN/master/FJ616285.1/POL/NB-Rep2-3prime-FW.bw
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/CUTANDRUN/master/FJ616285.1/RNASeq-3Prime/NB-Rep2-3prime-FW.bw
 longLabel RNA-Seq NB 3 Prime 2
 shortLabel RNA-Seq NB 3 Prime 2
 negateValues off
@@ -285,7 +285,7 @@ track NB-3Prime-2_RV
 parent NB-3Prime-2
 type bigWig 0 1000
 visibility full
-bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/CUTANDRUN/master/FJ616285.1/POL/NB-Rep2-3prime-RV.bw
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/CUTANDRUN/master/FJ616285.1/RNASeq-3Prime/NB-Rep2-3prime-RV.bw
 longLabel RNA-Seq NB 3 Prime 2
 shortLabel RNA-Seq NB 3 Prime 2
 negateValues on
