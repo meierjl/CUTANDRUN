@@ -182,6 +182,7 @@ autoScale on
 maxHeightPixels 128:128:16
 
 #############
+
 track WT-3Prime-2
 compositeTrack on
 type bigWig 0 1000
@@ -219,6 +220,7 @@ autoScale on
 maxHeightPixels 128:128:16
 
 #############
+
 track NB-3Prime-1
 compositeTrack on
 type bigWig 0 1000
@@ -256,6 +258,7 @@ autoScale on
 maxHeightPixels 128:128:16
 
 #############
+
 track NB-3Prime-2
 compositeTrack on
 type bigWig 0 1000
